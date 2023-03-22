@@ -1,3 +1,3 @@
-#*Python*
+# **Python**
 
-# Iniciando uma nova jornada com a línguagem python.
+# Iniciando uma nova jornada com a linguagem python.
